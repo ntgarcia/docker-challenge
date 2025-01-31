@@ -1,1 +1,1 @@
-# docker-challenge-template
+# docker-challenge
